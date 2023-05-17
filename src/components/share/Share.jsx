@@ -31,9 +31,9 @@ const Share = () => {
               <EmojiEmotions htmlColor="goldenrod" className="shareIcon" />
               <span className="shareOptionText">Feelings</span>
             </div>
-          <button className="shareButton">Share</button>
+            
+            <button className="shareButton">Share</button>
           </div>
-
         </div>
       </div>
     </div>
